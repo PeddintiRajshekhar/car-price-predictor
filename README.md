@@ -29,6 +29,11 @@ A **Streamlit web application** that predicts the **resale price of a used car**
 
 ---
 
+
+https://github.com/user-attachments/assets/bf2d3b2f-7395-472c-93ab-27117af5fbfa
+
+
+
 ## 🧠 Model
 
 The machine learning pipeline uses:
